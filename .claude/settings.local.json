@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)",
+      "Bash(powershell -Command \"Get-Item ''C:\\\\temp\\\\tsscat\\\\W365ConceptualReferenceArchitecture\\\\W365Design1.0-Signed.pdf'' | Select-Object Name, Length, LastWriteTime\")",
+      "Bash(where:*)",
+      "Bash(pdftotext:*)",
+      "Bash(del \"C:\\\\temp\\\\tsscat\\\\W365ConceptualReferenceArchitecture\\\\extracted_text.txt\")",
+      "Bash(rm:*)"
+    ]
+  }
+}
