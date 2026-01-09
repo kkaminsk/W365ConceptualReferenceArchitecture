@@ -10,6 +10,8 @@ This repository contains a comprehensive reference design document for Windows 3
 
 A full-color hardcover edition of this document is also available at [Lulu.com](https://www.lulu.com/shop/kevin-kaminski/windows-365-cloud-pc-deployment-conceptual-architecture/hardcover/product-2m85w9r.html).
 
+For interactive guidance, try the [Windows 365 Design Advisor](https://chatgpt.com/g/g-6961758ef3c88191837503959cf2a48a-windows-365-design-advisor) ChatGPT companion.
+
 ## What's Included
 
 The reference architecture document (98 pages) covers:
