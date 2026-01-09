@@ -8,6 +8,8 @@ This repository contains a comprehensive reference design document for Windows 3
 
 **[Download the Reference Architecture (PDF)](W365Design1.0-Signed.pdf)**
 
+A full-color hardcover edition of this document is also available at [Lulu.com](https://www.lulu.com/shop/kevin-kaminski/windows-365-cloud-pc-deployment-conceptual-architecture/hardcover/product-2m85w9r.html).
+
 ## What's Included
 
 The reference architecture document (98 pages) covers:
@@ -40,6 +42,13 @@ The reference design includes a baseline application configuration:
 - **Company Portal** - Self-service application store
 - **Remote Help** - Zero Trust IT support solution
 - **VLC (UWP)** - Optional media player
+
+## Source Files
+
+The `Source` folder contains the editable source materials for this document:
+
+- **W365Design1.0.docx** - The Microsoft Word document used to build the PDF
+- **Graphics/** - Subfolder containing the diagram and illustration image files used throughout the document
 
 ## Target Audience
 
