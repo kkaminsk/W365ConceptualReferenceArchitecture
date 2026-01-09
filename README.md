@@ -48,7 +48,7 @@ The reference design includes a baseline application configuration:
 The `Source` folder contains the source materials for this document:
 
 - **Graphics** - Subfolder containing the diagram and illustration image files used throughout the document
-- **Word Document** - Moved to OneDrive due to size. [W365Design1.0.docx](https://bighatgroup-my.sharepoint.com/:w:/p/kevin_kaminski/IQBBkgEOB_oWSp1gYFu6hKslAcSHYLpEqsup-swBiv9qfIM?e=qi5ITO)
+- **Word Document** - Moved to OneDrive due to size. [W365Doc](https://bighatgroup-my.sharepoint.com/:f:/p/kevin_kaminski/IgDUAFGFqbGhTqc8fkCA1JV6AaXmO0C-AFZQWmboW308_XQ?e=3qxB9a)
 
 ## Target Audience
 
