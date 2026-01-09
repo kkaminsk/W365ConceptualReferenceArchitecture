@@ -8,7 +8,15 @@
       "Bash(where:*)",
       "Bash(pdftotext:*)",
       "Bash(del \"C:\\\\temp\\\\tsscat\\\\W365ConceptualReferenceArchitecture\\\\extracted_text.txt\")",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(git -C \"C:\\\\temp\\\\tsscat\\\\W365ConceptualReferenceArchitecture\" status)",
+      "Bash(git -C \"C:\\\\temp\\\\tsscat\\\\W365ConceptualReferenceArchitecture\" diff README.md)",
+      "Bash(git -C \"C:\\\\temp\\\\tsscat\\\\W365ConceptualReferenceArchitecture\" log --oneline -5)",
+      "Bash(git -C \"C:\\\\temp\\\\tsscat\\\\W365ConceptualReferenceArchitecture\" add README.md)",
+      "Bash(git -C \"C:\\\\temp\\\\tsscat\\\\W365ConceptualReferenceArchitecture\" commit -m \"$\\(cat <<''EOF''\nUpdate README with hardcover link and source files section\n\n- Add link to full-color hardcover edition on Lulu.com\n- Add Source Files section describing the Word document and Graphics folder\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git -C \"C:\\\\temp\\\\tsscat\\\\W365ConceptualReferenceArchitecture\" add CLAUDE.md)",
+      "Bash(git -C \"C:\\\\temp\\\\tsscat\\\\W365ConceptualReferenceArchitecture\" commit -m \"$\\(cat <<''EOF''\nAdd CLAUDE.md with project context\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git -C \"C:\\\\temp\\\\tsscat\\\\W365ConceptualReferenceArchitecture\" push)"
     ]
   }
 }
