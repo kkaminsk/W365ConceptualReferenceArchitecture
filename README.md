@@ -45,10 +45,10 @@ The reference design includes a baseline application configuration:
 
 ## Source Files
 
-The `Source` folder contains the editable source materials for this document:
+The `Source` folder contains the source materials for this document:
 
-- **W365Design1.0.docx** - The Microsoft Word document used to build the PDF
-- **Graphics/** - Subfolder containing the diagram and illustration image files used throughout the document
+- **Graphics** - Subfolder containing the diagram and illustration image files used throughout the document
+- **Word Document** - Moved to OneDrive due to size. [W365Design1.0.docx](https://bighatgroup-my.sharepoint.com/:w:/p/kevin_kaminski/IQBBkgEOB_oWSp1gYFu6hKslAcSHYLpEqsup-swBiv9qfIM?e=qi5ITO)
 
 ## Target Audience
 
